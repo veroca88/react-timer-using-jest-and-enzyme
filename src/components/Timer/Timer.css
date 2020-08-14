@@ -9,3 +9,10 @@
   display: flex;
   align-items: flex-end;
 }
+
+.time-display {
+  text-align: center;
+  margin: 20px;
+  font-size: 30vh;
+  font-weight: 900;
+}
